@@ -1,0 +1,13 @@
+{
+	"language": {
+		"ru_RU": {
+			"region": "Россия",
+			"name": "Русский",
+			"bidirectional": false
+		}
+	},
+	"pack": {
+		"pack_format": 1,
+		"description": "Русский перевод и шрифты"
+	}
+}

@@ -1,0 +1,60 @@
+[C]§f===============
+[C]§eÐàçðàáîò÷èêè:
+[C]§f===============
+
+§7Ñîçäàòåëü:
+§f			Markus Persson
+
+§7Èãðîâîé äèçàéí, ïðîãðàììèðîâàíèå è ãðàôèêà:
+§f			Markus Persson
+§f			Jens Bergensten
+
+§7Ìóçûêà è çâóêè:
+§f			Daniel Rosenfeld
+
+§7Âíóòðèèãðîâàÿ ãðàôèêà è êàðòèíû:
+§f			Kristoffer Zetterstrand
+
+§7Ðàññêàç î êîíöå èãðû:
+§f			Julian Gough
+
+§7Ðàçðàáîò÷èêè ñàéòà:
+§f			Tobias Möllstam
+§f			Daniel Frisk
+§f			Leonard Axelsson
+§f			Jens Bergensten
+§f			Markus Persson
+
+§7Ëîãîòèï è ôèðìåííûé ñòèëü:
+§f			Markus Toivonen
+
+§7Áèçíåñ è àäìèíèñòðèðîâàíèå:
+§f			Carl Manneh
+§f			Daniel Kaplan
+
+§7Äèðåêòîð-çàòåéíèê:
+§f			Lydia Winters
+
+§7Ñòàòèñòèêà:
+§f			Patrick Geuder
+
+§7Äîïîëíèòåëüíîå ïðîãðàììèðîâàíèå:
+§f			Paul Spooner
+§f			Ryan 'Scaevolus' Hitchman
+§f			Elliot 'Hippoplatimus' Segal
+
+§7Ïåðåâîä íà ðóññêèé ÿçûê:
+§f			Fourgotten
+
+§7Èñïîëüçîâàííûå òåõíîëîãèè:
+§f			Java îò Oracle
+§f			LWJGL îò ìíîãèõ òàëàíòëèâûõ ëþäåé
+§f			Ñèñòåìà îáúåìíîãî çâóêà îò Paul Lamb
+§f			JOrbis îò JCraft
+
+
+
+
+
+
+§f"×åðåç äâàäöàòü ëåò âû áóäåòå áîëüøå ñîæàëåòü î íåñäåëàííûõ âåùàõ, ÷åì î ñäåëàííûõ. Òàê ñáðîñüòå øâàðòîâíûå óçëû, âûõîäèòå èç ñïîêîéíîé ãàâàíè, ëîâèòå íàäåæíûé âåòåð â ñâîè ïàðóñà. Èññëåäóéòå è ìå÷òàéòå." §7- Ìàðê Òâåí
