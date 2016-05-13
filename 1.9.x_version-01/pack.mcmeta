@@ -1,0 +1,16 @@
+{
+	"language":
+	{
+		"ru_RU":
+		{
+			"region": "Россия",
+			"name":   "Русский",
+			"bidirectional": false
+		}
+	},
+	"pack":
+	{
+		"pack_format": 2,
+		"description": "Ресурсы от VoxileRu"
+	}
+}
